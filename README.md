@@ -20,6 +20,6 @@ This tool can check valid credit cards with the Stripe Charger payment gateway [
     $ php cli.php
 
 ## Screenshot
-<img src="https://github.com/ZLaxtert/cc-checker-stripe-charger/blob/main/ss.jpg">
+<img src="https://github.com/ZLaxtert/cc-checker-stripe-charger/blob/main/ss.png">
 
 
