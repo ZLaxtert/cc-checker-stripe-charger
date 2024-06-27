@@ -129,7 +129,7 @@ echo " TOTAL         : " . $total . PHP_EOL;
 echo "======================================" . PHP_EOL;
 echo "[+] RATIO APPROVE => $GR" . round(RatioCheck($live, $total)) . "%$DEF" . PHP_EOL;
 echo "[+] RATIO DIE     => $RD" . round(RatioCheck($die, $total)) . "%$DEF" . PHP_EOL . PHP_EOL;
-echo "[!] NOTE : CHECK AGAIN FILE 'unknown.txt' or 'bad-req.txt' [!]" . PHP_EOL;
+echo "[!] NOTE : CHECK AGAIN FILE 'unknown.txt' or 'bad-req.txt' or 'checkAgain.txt' [!]" . PHP_EOL;
 echo "This file '" . $listname . "'" . PHP_EOL;
 echo "File saved in folder 'result/' " . PHP_EOL . PHP_EOL;
 
