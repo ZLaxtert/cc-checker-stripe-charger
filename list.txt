@@ -1,0 +1,3 @@
+PASTE YOUR CC LISTS HERE
+FORMAT : CC|MONTH|YEAR|CVV
+EXAMPLE : 4xxxxxxxxxxxxxxx|xx|xx|xxx
